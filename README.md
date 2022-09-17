@@ -216,9 +216,18 @@ In order to run the script more efficently, three new arrays were created to hol
 ### Stock Performance - 2017 vs 2018
 The stock performance between 2017 and 2018 is signifcantly different for the majority of the stocks. There was a big return in 2017 and a large decline in 2018 for every stock except ENPH and RUN. I predict that outside economic and political factors may have caused this big change in the industry in such a short time period.
 
+<img width="346" alt="Screen Shot 2022-09-16 at 7 42 22 PM" src="https://user-images.githubusercontent.com/43667985/190833259-1e3dae56-1889-476c-ac67-986f9a7863ed.png">
+<img width="349" alt="Screen Shot 2022-09-16 at 7 42 47 PM" src="https://user-images.githubusercontent.com/43667985/190833261-ae0701c8-af94-481e-92e6-7b319738d652.png">
+
 
 ### Execution Times
 The execution times for the refactored code were signifcantly faster then the original code. If the data set were to expand in the future, the refactored code would be even more useful.
+
+<img width="415" alt="Screen Shot 2022-09-16 at 8 36 19 PM" src="https://user-images.githubusercontent.com/43667985/190833521-d02af2aa-6650-405f-b99c-91dfdb30010e.png">
+<img width="421" alt="VBA_Challenge_2017" src="https://user-images.githubusercontent.com/43667985/190833438-cc70dc61-e24b-4c63-910f-5794da3ef52d.png">
+
+<img width="419" alt="Screen Shot 2022-09-16 at 7 56 04 PM" src="https://user-images.githubusercontent.com/43667985/190833458-f534c252-6f79-4acd-950a-cf1e3ee1f473.png">
+<img width="419" alt="VBA_Challenge_2018" src="https://user-images.githubusercontent.com/43667985/190833466-56581c89-1e9f-4aa1-9a91-19b9ebcaa9ab.png">
 
 ### Advantages and Disadvantages of Refactoring Code
 The big advantage of using refactored code is that it will make the code run more efficently. This becomes very useful as the amount of data increases for the project that is being worked on.
